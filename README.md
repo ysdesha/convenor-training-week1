@@ -12,6 +12,6 @@
 
   ## 🔗 Resources
 
--[Latches and flip flops - All about electronics yt](https://youtu.be/LTtuYeSmJ2g?si=UNq8mINmK0RAwN_6)
--[Latches - Geeksforgeeks](https://www.geeksforgeeks.org/latches-in-digital-logic/)
--[Flip-Flops - Geeksforgeeks](https://www.geeksforgeeks.org/flip-flop-types-their-conversion-and-applications/)
+- [Latches and flip flops - All about electronics yt](https://youtu.be/LTtuYeSmJ2g?si=UNq8mINmK0RAwN_6)
+- [Latches - Geeksforgeeks](https://www.geeksforgeeks.org/latches-in-digital-logic/)
+- [Flip-Flops - Geeksforgeeks](https://www.geeksforgeeks.org/flip-flop-types-their-conversion-and-applications/)
