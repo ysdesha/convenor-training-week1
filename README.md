@@ -12,6 +12,12 @@
 
   ## 🔗 Resources
 
+- [Logic Gates- ComputerEngineeringForBabies](https://computerengineeringforbabies.com/blogs/engineering/logic-gate)
+- [Boolean simplification - Geekforgeeks ](https://www.geeksforgeeks.org/minimization-of-boolean-functions/)
+- [KMaps - All about electronics yt](https://www.youtube.com/watch?v=lw1STgKUpW0&t=586s&ab_channel=ALLABOUTELECTRONICS)
+- [Adders and subtracters - Geekforgeeks ](https://www.geeksforgeeks.org/half-adder-in-digital-logic/)
+- [Multipliers -  All about electronics yt ](https://www.youtube.com/watch?v=-5N1FY8EC_8&t=455s)
+- [Mux and Demux - ElProCus ](https://www.elprocus.com/what-is-multiplexer-and-demultiplexer-types-and-differences/)
 - [Latches and flip flops - All about electronics yt](https://youtu.be/LTtuYeSmJ2g?si=UNq8mINmK0RAwN_6)
 - [Latches - Geeksforgeeks](https://www.geeksforgeeks.org/latches-in-digital-logic/)
 - [Flip-Flops - Geeksforgeeks](https://www.geeksforgeeks.org/flip-flop-types-their-conversion-and-applications/)
