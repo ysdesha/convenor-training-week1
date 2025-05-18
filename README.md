@@ -8,4 +8,8 @@
 - Logic Circuits (FSMs, Switching Circuits)
 - Analog Electronics (OpAmps, Timers, ADCs, DACs)
 - Synchronous vs Asynchronous Systems
-- PWM as a DAC Alternativ
+- PWM as a DAC Alternative
+
+  ## 🔗 Resources
+
+-[Latches and flip flops - All about electronics yt](https://youtu.be/LTtuYeSmJ2g?si=UNq8mINmK0RAwN_6)
